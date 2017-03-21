@@ -1,2 +1,5 @@
-const str = 'es6';
+import './utils';
+import './module';
+
+const str= 'world';
 console.log(`hello ${str}`);
