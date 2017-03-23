@@ -1,1 +1,2 @@
-console.log('utils');
+const str = 'xiaoyue';
+console.log(`hello ${str}`);

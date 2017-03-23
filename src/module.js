@@ -1,1 +1,2 @@
-console.log('module');
+const str = 'haha';
+console.log(`hello ${str}`);

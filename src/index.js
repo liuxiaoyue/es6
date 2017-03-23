@@ -1,5 +1,4 @@
-import './utils';
-import './module';
-
-const str= 'world xiaoyue';
+require('./module');
+require('./utils');
+const str= 'world xiaoyue11111432423';
 console.log(`hello ${str}`);
